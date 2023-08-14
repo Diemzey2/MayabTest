@@ -1,0 +1,7 @@
+streamlit
+streamlit_extras
+st_pages
+requests
+jsonlib
+numpy
+openai
