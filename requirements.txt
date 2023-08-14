@@ -1,7 +1,6 @@
-streamlit
-streamlit_extras
-st_pages
-requests
-jsonlib
-numpy
-openai
+numpy==1.24.0
+openai==0.27.1
+Requests==2.31.0
+st_pages==0.4.3
+streamlit==1.25.0
+streamlit_extras==0.3.0
